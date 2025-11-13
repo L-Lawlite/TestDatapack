@@ -1,0 +1,2 @@
+give @s minecraft:armor_stand[minecraft:max_stack_size=1,minecraft:item_name="Lava Bucket",minecraft:item_model="minecraft:lava_bucket",minecraft:enchantment_glint_override=true,minecraft:entity_data={id:"minecraft:armor_stand",NoGravity:1b,Invulnerable:1b,Invisible:1b,Marker:1b,NoAI:1b,Tags:["lava"]}]
+tag @s remove need_to_give_lava_bucket

@@ -1,10 +1,6 @@
 {
   "pack": {
-    "pack_format": 45,
-    "supported_formats": {
-      "min_inclusive": 45,
-      "max_inclusive": 48
-    },
-    "description": "Datapack pack template made by L.Lawliet"
+    "pack_format": 71,
+        "description": "Datapack pack template made by L.Lawliet"
   }
 }
